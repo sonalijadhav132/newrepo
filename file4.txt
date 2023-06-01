@@ -1,2 +1,1 @@
-hello file
-this message for git pull
+this is conflict
