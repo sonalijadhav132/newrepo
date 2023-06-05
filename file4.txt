@@ -2,3 +2,4 @@ this is conflict
 HELLO CONFLICT
 commit
 commiting changes
+for git pull
